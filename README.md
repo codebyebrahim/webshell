@@ -7,6 +7,16 @@ Designed for educational and personal testing purposes.
 You are fully responsible for your usage of this tool.
 
 ---
+# 🔐 Default Login
+
+> Use the following credentials to access the web shell:
+
+- **Username:** `codebyebrahim`
+- **Password:** `123`
+
+You can change these in the PHP file if needed.
+
+---
 
 ## 🔵 Blue Theme
 
