@@ -23,7 +23,7 @@ You can change these in the PHP file if needed.
 File: `ebishell_b.php`
 
 ![Blue 1](./ebishell_b_1.JPG)
-![Blue 2](./ebishell_b_2.JPG)
+![Blue 2](./ebishell_b_2.jpg)
 ![Blue 3](./ebishell_b_3.JPG)
 
 ---
